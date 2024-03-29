@@ -1,8 +1,9 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset=https://unsplash.com/photos/a-black-and-white-photo-of-the-moon-lyBMFR82TRM">
  <source media="(prefers-color-scheme: light)" srcset=https://unsplash.com/photos/a-red-background-with-a-sun-and-some-orange-circles-vNVR9zSPN7Y">
- <img alt="Shows an illustrated sun in light mode and a moon in dark mode." src="YOUR-DEFAULT-IMAGE">
+ <img alt="Shows an illustrated sun in light mode and a moon in dark mode." src=""https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture
+
 
 ##ABOUT ME
 
