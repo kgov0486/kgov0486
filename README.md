@@ -1,3 +1,10 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset=https://unsplash.com/photos/a-black-and-white-photo-of-the-moon-lyBMFR82TRM">
+ <source media="(prefers-color-scheme: light)" srcset=https://unsplash.com/photos/a-red-background-with-a-sun-and-some-orange-circles-vNVR9zSPN7Y">
+ <img alt="Shows an illustrated sun in light mode and a moon in dark mode." src="YOUR-DEFAULT-IMAGE">
+</picture
+
+
 - 👋 Hi, I’m Karan Govindia (@kgov0486)
 - 👀 I’m interested in enter the Tech industry again post a career break as a parent carer...
 - 🌱 I’m currently learning python but did specialise in C++ for my Bsc...
