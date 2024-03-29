@@ -4,6 +4,7 @@
  <img alt="Shows an illustrated sun in light mode and a moon in dark mode." src="YOUR-DEFAULT-IMAGE">
 </picture
 
+##ABOUT ME
 
 - 👋 Hi, I’m Karan Govindia (@kgov0486)
 - 👀 I’m interested in enter the Tech industry again post a career break as a parent carer...
